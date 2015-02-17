@@ -36,7 +36,7 @@ Kindly contact us at info@heraldsolutions.in for any query or issue.
 == Changelog ==
 
 = 1.0 =
-* THis is the first version
+* This is the first version
 
 == Upgrade Notice ==
 
